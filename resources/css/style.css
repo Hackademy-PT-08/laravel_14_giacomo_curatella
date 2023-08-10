@@ -1,0 +1,20 @@
+.giacur-carousel {
+    height: 30vh;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.giacur-carousel-show{
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.giacur-carousel-edit{
+    height: 20vh;
+    width: 20vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
